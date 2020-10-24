@@ -6,7 +6,6 @@
 
 * Train.ipynb 為訓練完整程式碼
 
-* Inference.ipynb 可以視覺化訓練完的模型，驗證結果
 
 
 
